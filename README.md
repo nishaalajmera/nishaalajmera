@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishaal Ajmera. 
 - 😃  I enjoy extracting insights and forecasting trends from data using empirical analysis and machine learning (ML) to solve challenging problems.  
-- 💼 Data Scientist HM Treasury 
+- 💼 Data Scientist at HM Treasury
 - :man_student: I studied MSc Data Science at Newcastle University and am a ML fellow at AiCore
 - 🤔 Economics 📈 Healthcare 🏥
 
